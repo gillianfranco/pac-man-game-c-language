@@ -1,2 +1,2 @@
-# pac-man-game-c-language
+# PAC-MAN Game
 PAC-MAN game made with C Language
