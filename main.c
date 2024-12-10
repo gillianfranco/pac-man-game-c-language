@@ -18,7 +18,10 @@ int main() {
     }
 
     for (int i = 0; i < 5; i++) {
-        printf("%c\n", map[i]);
+        for (int j = 0; j < 10; j++) {
+            printf("%c", map[i][j]);
+        }
+        printf("\n");
     }
 
     return 0;
